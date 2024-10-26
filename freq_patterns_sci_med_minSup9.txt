@@ -609,8 +609,8 @@ european:11
 helped:11
 offer:11
 personality:11
-personality	alt:9
 personality	international:9
+personality	alt:9
 personality	510:9
 personality	510	international:9
 practitioner:11
@@ -8520,11 +8520,11 @@ pay:12
 waste:12
 bring:12
 510:12
+510	international:9
 510	means:9
 510	action:9
 510	408:9
 510	408	action:9
-510	international:9
 510	online:9
 510	online	action:9
 510	online	408:9
@@ -9494,11 +9494,11 @@ doubt:16
 insurance:16
 grief:16
 international:16
+international	action:9
 international	means:9
 international	communications:9
 means	international	communications:9
 international	guest:9
-international	action:9
 professional:16
 1993apr19:16
 ill:16
